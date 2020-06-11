@@ -90,7 +90,7 @@ print  """
 \033[1;97m╭╯━╰━┫╰━╯┃╰━╯┃╭━╮┣┫┣┫┃┃╰╮
 
 \033[1;97m╰━━━━┻━━━┻━━━┻╯╱╰┻━━┻╯╰━╯
- \033[1;97m  ZAiBI Updated")                                                             
+ \033[1;97m  MR---ZAiBI Updated")                                                             
 """
 
 jalan("\033[1;96m•◈  ╔════╦═══╦══╦══╗╔══╗ ")
@@ -108,7 +108,7 @@ jalan("\033[1;96m•◈  ╚════╩╝─╚╩══╩═══╩═�
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Zubait Creations ")
+jalan("   \033[1;93m Welcome to MR-ZAIBI Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mzubairzubi\033[1;96m•◈•──────────•◈•")
 
