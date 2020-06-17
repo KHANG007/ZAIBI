@@ -441,7 +441,7 @@ def pilih_super():
 	print '\033[1;34;40m[+] CP File Has Been Saved : save/cp.txt'
 	print """
 
-           """
+           
 	raw_input("\n\033[1;97m[\033[1;97mExit\033[1;97m]")
 	super()
 
